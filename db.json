@@ -1,12 +1,22 @@
 {
   "alunos": [
     {
-      "id": 1,
-      "nome": "Maria Silva",
-      "email": "maria@email.com",
-      "cpf": "123.456.789-00",
-      "data_nascimento": "2007-05-14",
-      "endereco": "Rua das Flores, 123 - Pau dos Ferros/RN"
+      "nome": "Queiroga Junior",
+      "email": "queiroga@gmail.com",
+      "cpf": "122.333.444-55",
+      "data_nascimento": "2026-09-01",
+      "endereco": "Sim",
+      "id": 1
+    }
+  ],
+  "professores": [
+    {
+      "nome": "Queiroga",
+      "email": "queirogamr@email.com",
+      "cpf": "222.333.444-55",
+      "disciplina": "Programação",
+      "data_admissao": "2026-09-23",
+      "id": 1
     }
   ]
 }
